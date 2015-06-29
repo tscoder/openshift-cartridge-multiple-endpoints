@@ -3,6 +3,7 @@ Cartridge-Short-Name: NODEJS
 Display-Name: NodeJS Cartridge
 Description: "A nodejs cartridge"
 Version: '0.10'
+Source-Url: git@github.com:Filirom1/openshift-cartridge-multiple-endpoints
 License: "MIT"
 Vendor: joyent
 Cartridge-Version: 0.0.1
